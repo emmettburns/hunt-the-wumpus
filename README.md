@@ -11,6 +11,6 @@ Instructions:
 2. The small black boxes within the squares indicate directions the player can move. 
 3. The use "w" to move up, "s" for down, "a" for left and "d" for right. 
 4. When the player is within two spaces of the wumpus, the square will appear red. 
-5. To win, the player must hit the wumpus the the arrow. Press the space bar to arm and disarm the player. When armed, used the movement buttons to shoot the arrow to the adjacent space. (The player appears red, rather than green while armed.)
+5. To win, the player must hit the wumpus with the the arrow. Press the space bar to arm and disarm the player. When armed, use the movement buttons to shoot the arrow to an adjacent space. (The player appears red, rather than green while armed.)
 6. If the arrow misses the wumpus, the wumpus will hear and eat the player. If the player sucessfully hits the wumpus with the arrow, the player wins. 
 7. Enjoy the game!
